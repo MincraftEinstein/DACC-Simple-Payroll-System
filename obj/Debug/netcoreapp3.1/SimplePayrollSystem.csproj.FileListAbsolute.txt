@@ -1,0 +1,13 @@
+C:\Users\Owner\Desktop\C# Projects\learnC#InOneDay\SimplePayrollSystem\SimplePayrollSystem\bin\Debug\netcoreapp3.1\SimplePayrollSystem.exe
+C:\Users\Owner\Desktop\C# Projects\learnC#InOneDay\SimplePayrollSystem\SimplePayrollSystem\bin\Debug\netcoreapp3.1\SimplePayrollSystem.deps.json
+C:\Users\Owner\Desktop\C# Projects\learnC#InOneDay\SimplePayrollSystem\SimplePayrollSystem\bin\Debug\netcoreapp3.1\SimplePayrollSystem.runtimeconfig.json
+C:\Users\Owner\Desktop\C# Projects\learnC#InOneDay\SimplePayrollSystem\SimplePayrollSystem\bin\Debug\netcoreapp3.1\SimplePayrollSystem.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\C# Projects\learnC#InOneDay\SimplePayrollSystem\SimplePayrollSystem\bin\Debug\netcoreapp3.1\SimplePayrollSystem.dll
+C:\Users\Owner\Desktop\C# Projects\learnC#InOneDay\SimplePayrollSystem\SimplePayrollSystem\bin\Debug\netcoreapp3.1\SimplePayrollSystem.pdb
+C:\Users\Owner\Desktop\C# Projects\learnC#InOneDay\SimplePayrollSystem\SimplePayrollSystem\obj\Debug\netcoreapp3.1\SimplePayrollSystem.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\C# Projects\learnC#InOneDay\SimplePayrollSystem\SimplePayrollSystem\obj\Debug\netcoreapp3.1\SimplePayrollSystem.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\C# Projects\learnC#InOneDay\SimplePayrollSystem\SimplePayrollSystem\obj\Debug\netcoreapp3.1\SimplePayrollSystem.AssemblyInfo.cs
+C:\Users\Owner\Desktop\C# Projects\learnC#InOneDay\SimplePayrollSystem\SimplePayrollSystem\obj\Debug\netcoreapp3.1\SimplePayrollSystem.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\C# Projects\learnC#InOneDay\SimplePayrollSystem\SimplePayrollSystem\obj\Debug\netcoreapp3.1\SimplePayrollSystem.dll
+C:\Users\Owner\Desktop\C# Projects\learnC#InOneDay\SimplePayrollSystem\SimplePayrollSystem\obj\Debug\netcoreapp3.1\SimplePayrollSystem.pdb
+C:\Users\Owner\Desktop\C# Projects\learnC#InOneDay\SimplePayrollSystem\SimplePayrollSystem\obj\Debug\netcoreapp3.1\SimplePayrollSystem.genruntimeconfig.cache
